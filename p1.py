@@ -6,5 +6,4 @@ multiply_of_n = 0
 
 for i in numbers: 
   multiply_of_n = int(i)*n 
-
-print(multiply_of_n)
+  print(multiply_of_n)
